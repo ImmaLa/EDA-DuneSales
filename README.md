@@ -25,7 +25,7 @@ Inventory and product planning
 
 Regional sales optimization
 
-Tools
+Tools:
 Python, Pandas, Matplotlib, Seaborn
 
 
